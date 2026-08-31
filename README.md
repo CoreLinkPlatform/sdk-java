@@ -1,5 +1,11 @@
 # CoreLink Java SDK
 
+[![Maturity: Experimental](https://img.shields.io/badge/maturity-experimental-yellow)](https://github.com/CoreLinkPlatform/.github/blob/main/REPOSITORY_MATURITY.md)
+[![Generated conformance](https://github.com/CoreLinkPlatform/sdk-java/actions/workflows/generated-conformance.yml/badge.svg?branch=main)](https://github.com/CoreLinkPlatform/sdk-java/actions/workflows/generated-conformance.yml)
+[![Java 17+](https://img.shields.io/badge/Java-17%2B-blue)](https://adoptium.net/)
+[![Version: 0.1.0-SNAPSHOT](https://img.shields.io/badge/version-0.1.0--SNAPSHOT-yellow)](pom.xml)
+[![Contract: 1.0.0-draft](https://img.shields.io/badge/contract-1.0.0--draft-blue)](https://github.com/CoreLinkPlatform/api-contracts)
+
 > **Maturity: Experimental / Generated Baseline** — reproducible Java generation/build now exists, but there is no supported Maven Central/Stable artifact yet.
 
 This repository is the official Java/Spring client boundary for versioned CoreLink public APIs.
